@@ -1,0 +1,6 @@
+@Ritone_HostAddress = http://localhost:5214
+
+GET {{Ritone_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

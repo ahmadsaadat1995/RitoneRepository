@@ -1,0 +1,17 @@
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Application\bin\Debug\net8.0\Ritone.Application.deps.json
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Application\bin\Debug\net8.0\Ritone.Application.dll
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Application\bin\Debug\net8.0\Ritone.Application.pdb
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Application\obj\Debug\net8.0\Ritone.Application.csproj.AssemblyReference.cache
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Application\obj\Debug\net8.0\Ritone.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Application\obj\Debug\net8.0\Ritone.Application.AssemblyInfoInputs.cache
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Application\obj\Debug\net8.0\Ritone.Application.AssemblyInfo.cs
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Application\obj\Debug\net8.0\Ritone.Application.csproj.CoreCompileInputs.cache
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Application\obj\Debug\net8.0\Ritone.Application.dll
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Application\obj\Debug\net8.0\refint\Ritone.Application.dll
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Application\obj\Debug\net8.0\Ritone.Application.pdb
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Application\obj\Debug\net8.0\ref\Ritone.Application.dll
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Application\bin\Debug\net8.0\Ritone.Domain.dll
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Application\bin\Debug\net8.0\Ritone.Infrastructure.dll
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Application\bin\Debug\net8.0\Ritone.Infrastructure.pdb
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Application\bin\Debug\net8.0\Ritone.Domain.pdb
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Application\obj\Debug\net8.0\Ritone.A.92DC9224.Up2Date

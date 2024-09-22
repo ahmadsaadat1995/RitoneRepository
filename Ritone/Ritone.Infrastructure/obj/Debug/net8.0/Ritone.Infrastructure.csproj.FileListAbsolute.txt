@@ -1,0 +1,17 @@
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure\bin\Debug\net8.0\Ritone.Infrastructure.deps.json
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure\bin\Debug\net8.0\Ritone.Infrastructure.runtimeconfig.json
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure\bin\Debug\net8.0\Ritone.Infrastructure.dll
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure\bin\Debug\net8.0\Ritone.Infrastructure.pdb
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure\bin\Debug\net8.0\Ritone.Domain.dll
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure\bin\Debug\net8.0\Ritone.Domain.pdb
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure\obj\Debug\net8.0\Ritone.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure\obj\Debug\net8.0\Ritone.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure\obj\Debug\net8.0\Ritone.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure\obj\Debug\net8.0\Ritone.Infrastructure.AssemblyInfo.cs
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure\obj\Debug\net8.0\Ritone.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure\obj\Debug\net8.0\Ritone.I.5178563E.Up2Date
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure\obj\Debug\net8.0\Ritone.Infrastructure.dll
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure\obj\Debug\net8.0\refint\Ritone.Infrastructure.dll
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure\obj\Debug\net8.0\Ritone.Infrastructure.pdb
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure\obj\Debug\net8.0\Ritone.Infrastructure.genruntimeconfig.cache
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure\obj\Debug\net8.0\ref\Ritone.Infrastructure.dll

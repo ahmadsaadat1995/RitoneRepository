@@ -1,0 +1,11 @@
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Domain\bin\Debug\net8.0\Ritone.Domain.deps.json
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Domain\bin\Debug\net8.0\Ritone.Domain.dll
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Domain\bin\Debug\net8.0\Ritone.Domain.pdb
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Domain\obj\Debug\net8.0\Ritone.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Domain\obj\Debug\net8.0\Ritone.Domain.AssemblyInfoInputs.cache
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Domain\obj\Debug\net8.0\Ritone.Domain.AssemblyInfo.cs
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Domain\obj\Debug\net8.0\Ritone.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Domain\obj\Debug\net8.0\Ritone.Domain.dll
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Domain\obj\Debug\net8.0\refint\Ritone.Domain.dll
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Domain\obj\Debug\net8.0\Ritone.Domain.pdb
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Domain\obj\Debug\net8.0\ref\Ritone.Domain.dll

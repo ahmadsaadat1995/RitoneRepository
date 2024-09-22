@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ritone.EndPoint.props" />
+</Project>

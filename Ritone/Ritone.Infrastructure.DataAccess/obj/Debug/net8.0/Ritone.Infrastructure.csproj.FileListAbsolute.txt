@@ -1,0 +1,11 @@
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure.DataAccess\bin\Debug\net8.0\Ritone.Infrastructure.deps.json
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure.DataAccess\bin\Debug\net8.0\Ritone.Infrastructure.dll
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure.DataAccess\bin\Debug\net8.0\Ritone.Infrastructure.pdb
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure.DataAccess\obj\Debug\net8.0\Ritone.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure.DataAccess\obj\Debug\net8.0\Ritone.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure.DataAccess\obj\Debug\net8.0\Ritone.Infrastructure.AssemblyInfo.cs
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure.DataAccess\obj\Debug\net8.0\Ritone.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure.DataAccess\obj\Debug\net8.0\Ritone.Infrastructure.dll
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure.DataAccess\obj\Debug\net8.0\refint\Ritone.Infrastructure.dll
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure.DataAccess\obj\Debug\net8.0\Ritone.Infrastructure.pdb
+C:\Users\AhmadSaadat\source\repos\Ritone\Ritone.Infrastructure.DataAccess\obj\Debug\net8.0\ref\Ritone.Infrastructure.dll
